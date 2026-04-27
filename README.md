@@ -27,7 +27,7 @@ The system provides a comprehensive suite of clinical evaluation metrics:
 
 ---
 
-# ow to Use (Inference)
+# How to Use (Inference)
 You can download the pre-trained weights from Hugging Face and run inference on any X-ray image using the provided `predict.py` script:
 
 ```bash
